@@ -1,4 +1,4 @@
-# Flower Classification with CNN 🌸
+# Flower Classification with  🌸
 
 ## Project Overview
 
