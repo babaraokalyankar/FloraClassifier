@@ -50,5 +50,5 @@ This project demonstrates the use of a **Convolutional Neural Network (CNN)** bu
 
 ## ⚡ Example Prediction
 
-Once the model is trained, you can use it to predict the flower type from an input image. The model outputs the predicted flower class, such as **Tulip**, **Daisy**, **Rose**, etc.
+Once the model is trained, you can use it to predict the flower type from an input image. The model outputs the predicted flower class, such as **Tulip**, **Daisy**, **Rose**, 
 
